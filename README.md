@@ -12,11 +12,22 @@
 
 🚀 **Java Backend Developer with 1.5+ years of experience at High Tech Infosystems**  
 
+💡 Working on building **scalable backend systems and APIs**  
+
 🌱 Currently exploring **Cloud, DevOps, Kubernetes, and AWS**  
 
-🧠 Passionate about **clean architecture, concurrency, and scalable system design**  
+🧠 Passionate about **clean architecture, concurrency, and system design**  
 
 🎯 Goal: To build impactful products that solve real-world problems  
+
+---
+
+### 🔥 What I’m Currently Doing  
+
+- 🚀 Building and optimizing **REST APIs using Spring Boot**  
+- ⚙️ Learning **Docker, Kubernetes & CI/CD pipelines**  
+- ☁️ Exploring **AWS services (EC2, S3, IAM basics)**  
+- 📈 Improving **problem-solving & system design skills**  
 
 ---
 
@@ -40,33 +51,21 @@
 
 ---
 
-### 🧩 Additional Skills  
+### 🧩 Core Strengths  
 
-**Testing:** JUnit, Mockito  
-
-**Concurrency:** Thread Pools, Synchronization, Locks  
-
-**Architecture:** MVVM, MVC, Clean Architecture  
-
-**Methodology:** Agile (Scrum), SDLC  
+✔️ Writing clean and maintainable backend code  
+✔️ API design & database optimization  
+✔️ Understanding of concurrency & multi-threading  
+✔️ Debugging and problem-solving mindset  
 
 ---
 
-## 💼 Projects  
+### 📈 Learning Roadmap  
 
-### 🌍 [Pro Planet Person](https://github.com/Vibhanshusoni/ProPlanetPerson)
-> 🌱 Instagram-style eco app with Firebase backend, Google Authentication, and an eco-leaderboard system promoting sustainable living.
-
-### 🚗 [EcoRoute Planner](https://github.com/Vibhanshusoni/EcoRoutePlannerBackend)
-> 🗺️ Developed REST APIs integrating Google Maps API for eco-friendly navigation — reducing route computation time by 30%.
-
----
-
-## 🏆 Achievements  
-
-🏅 **Top 50 out of 10,000+** in *EMIDS Hackathon*  
-
-🎤 **Best Anchoring Award** – Jabalpur Institute of English  
+- 🔄 CI/CD (GitHub Actions / Jenkins)  
+- ☁️ Advanced AWS (Deployment + Scaling)  
+- 🧱 Microservices Architecture  
+- 📊 System Design (HLD + LLD)  
 
 ---
 
@@ -83,24 +82,11 @@
 
 ---
 
-## ✨ Fun Touch  
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sourabh3125&theme=darkhub&no-bg=true&no-frame=true&margin-w=5"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
 <a href="mailto:sourabh.tripathi.3125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:+918269590444"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/sourabh3125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
