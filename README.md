@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Sourabh+Kumar+Tripathi!;Java+%26+Spring+Boot+Developer;Backend+Engineer+%7C+DevOps+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Sourabh+Kumar+Tripathi!;Java+%26+Spring+Boot+Developer;Backend+Engineer+%7C+DevOps+Enthusiast" alt="Typing SVG" />
 </h1>
 
 ---
