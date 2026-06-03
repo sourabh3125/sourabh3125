@@ -109,9 +109,8 @@ Gyan Ganga Institute of Technology and Sciences, Jabalpur · CGPA: 7.5/10 · 202
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh3125&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=sourabh3125&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 ---
