@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-1.6%20Years-3B82F6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Jabalpur%2C%20M.P.-F59E0B?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Distributed%20Systems-6DB33F?style=flat-square"/>
 </p>
 
